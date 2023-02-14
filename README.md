@@ -8,9 +8,9 @@ Autoencoder models are neural networks that are trained to reconstruct their inp
 In this project we will implement DynAe graph embedding method using ogbg-molhiv dataset to train a model to learn node features and embeddin them on low dimension vector
 
 ## Requirements
-[Python3](https://www.python.org/downloads/)
-tensor flow
-ogb
+- [Python3](https://www.python.org/downloads/)
+- tensor flow
+- ogb
 
 good compute power.....on this am not kidding
 
@@ -18,7 +18,7 @@ good compute power.....on this am not kidding
 clone this repository
 
 ```
-git clone
+git clone git@github.com:Bkaraba/DynAe-graph_embedding.git
 ```
 install packages
 ```
